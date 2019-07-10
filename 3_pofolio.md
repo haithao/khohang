@@ -1,7 +1,7 @@
 ---
-title: Giới thiệu công trình thực tế
+title: Anh tat ca cac san pham
 layout: landing
-description: Công trình đã hoàn thành.
+description: Anh tat ca san pham.
 image: assets/images/banner-long.jpg
 nav-menu: true
 ---

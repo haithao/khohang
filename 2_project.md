@@ -1,7 +1,7 @@
 ---
 layout: post-project
-title: Nội thất
-description: Một số dự án đã tham gia triển khai.
+title: San pham
+description: Cac san pham.
 image: assets/images/banner-01.jpg
 nav-menu: true
 ---
