@@ -1,7 +1,7 @@
 ---
 layout: post
 type: san-pham
-title: Tat ca cac san pham
+title: Tu go xuat khau
 description: Tat ca cac san pham tham khao.
 image: assets/images/pic06.jpg
 ---
