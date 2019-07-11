@@ -13,7 +13,7 @@ nav-menu: true
 {% if post.type == 'san-pham' %}
 {% if post.title != 404 %}
 	<p>
-	<a href="{{site.baseurl}}{{post.url}}" class="portfolio-box" >
+	<a href="{{site.baseurl}}{{post.url}}" >
 		<h2>{{ post.title }}</h2>
 	</a>
 	<!-- {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %} -->
