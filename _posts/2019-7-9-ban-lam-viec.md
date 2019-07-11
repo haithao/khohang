@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Ban-lam-viec-go-thiet-ke-thong-minh-GHC-4143](https://gotrangtri.vn/wp-content/uploads/2019/07/Ban-lam-viec-go-thiet-ke-thong-minh-GHC-4143-ava.png.webp)](https://gotrangtri.vn/shop/ban-lam-viec-go-thiet-ke-thong-minh-ghc-4143/)
 
 [Bàn làm việc gỗ thiết kế thông minh GHC-4143](https://gotrangtri.vn/shop/ban-lam-viec-go-thiet-ke-thong-minh-ghc-4143/)

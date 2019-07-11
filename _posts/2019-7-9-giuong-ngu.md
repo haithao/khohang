@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Giuong-ngu-hien-dai-kieu-dang-nho-GHC-947](https://gotrangtri.vn/wp-content/uploads/2019/06/Giuong-ngu-hien-dai-kieu-dang-nho-GHC-947-ava.png)](https://gotrangtri.vn/shop/giuong-ngu-hien-dai-kieu-dang-nho-ghc-947/)
 
 [Giường ngủ hiện đại kiểu dáng nhỏ GHC-947](https://gotrangtri.vn/shop/giuong-ngu-hien-dai-kieu-dang-nho-ghc-947/)

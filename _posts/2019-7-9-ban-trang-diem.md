@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Ban-trang-diem-thiet-ke-tien-dung-GHC-4144](https://gotrangtri.vn/wp-content/uploads/2019/07/Ban-trang-diem-thiet-ke-tien-dung-GHC-4144-ava.jpg.webp)](https://gotrangtri.vn/shop/ban-trang-diem-thiet-ke-tien-dung-ghc-4144/)
 
 [Bàn trang điểm thiết kế tiện dụng GHC-4144](https://gotrangtri.vn/shop/ban-trang-diem-thiet-ke-tien-dung-ghc-4144/)

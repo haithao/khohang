@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![vach-ngan-go-cnc-thiet-ke-sang-trong-hien-dai-gho-5221](https://gotrangtri.vn/wp-content/uploads/2019/07/vach-ngan-go-cnc-thiet-ke-sang-trong-hien-dai-gho-5221.jpg.webp)](https://gotrangtri.vn/shop/vach-ngan-go-cnc-thiet-ke-sang-trong-hien-dai-gho-5221/)
 
 [Vách ngăn gỗ CNC thiết kế sang trọng hiện đại GHO-5221](https://gotrangtri.vn/shop/vach-ngan-go-cnc-thiet-ke-sang-trong-hien-dai-gho-5221/)

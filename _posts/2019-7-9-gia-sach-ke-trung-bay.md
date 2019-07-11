@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Ke-dung-sach-phong-khach-cho-gia-dinh-GHC-225](https://gotrangtri.vn/wp-content/uploads/2019/07/Ke-dung-sach-phong-khach-cho-gia-dinh-GHC-225-ava.jpg.webp)](https://gotrangtri.vn/shop/ke-dung-sach-phong-khach-gia-dinh-ghc-225/)
 
 [Kệ đựng sách phòng khách gia đình GHC-225](https://gotrangtri.vn/shop/ke-dung-sach-phong-khach-gia-dinh-ghc-225/)

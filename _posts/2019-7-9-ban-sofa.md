@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Ban-tra-sofa-thiet-ke-nho-gon-GHC-4141](https://gotrangtri.vn/wp-content/uploads/2019/07/Ban-tra-sofa-thiet-ke-nho-gon-GHC-4141-ava.jpg.webp)](https://gotrangtri.vn/shop/ban-tra-sofa-thiet-ke-nho-gon-ghc-4141/)
 
 [Bàn trà sofa thiết kế nhỏ gọn GHC-4141](https://gotrangtri.vn/shop/ban-tra-sofa-thiet-ke-nho-gon-ghc-4141/)

@@ -1,3 +1,11 @@
+---
+layout: post
+type: san-pham
+title: Tat ca cac san pham
+description: Tat ca cac san pham tham khao.
+image: assets/images/pic06.jpg
+---
+
 [![Tu-go-de-do-gia-dinh-bang-go-GHC-578](https://gotrangtri.vn/wp-content/uploads/2019/06/Tu-go-de-do-gia-dinh-bang-go-GHC-578-ava.jpg)](https://gotrangtri.vn/shop/tu-go-de-do-gia-dinh-bang-go-ghc-578/)
 
 [Tủ gỗ để đồ gia đình bằng gỗ GHC-578](https://gotrangtri.vn/shop/tu-go-de-do-gia-dinh-bang-go-ghc-578/)
